@@ -1,0 +1,31 @@
+
+body {
+    background-color: #f5f3ff;
+    color: #29243a;
+    font-family: Arial, sans-serif;
+}
+
+.card-signo {
+    max-width: 600px;
+    margin: 60px auto;
+    padding: 30px;
+    background-color: #ffffff;
+    border-radius: 16px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+}
+
+.titulo-principal {
+    color: #7653b5;
+    font-weight: bold;
+}
+
+.btn-signo {
+    background-color: #7653b5;
+    color: #ffffff;
+    border: none;
+}
+
+.btn-signo:hover {
+    background-color: #604093;
+    color: #ffffff;
+}
